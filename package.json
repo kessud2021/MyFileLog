@@ -1,0 +1,17 @@
+{
+  "name": "myfilelog",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": "src/cli/myfilelog.js",
+  "scripts": {
+    "build-exe": "pkg . --targets node18-win-x64 --output myfilelog.exe"
+  },
+  "pkg": {
+    "assets": [
+      "src/core/**/*"
+    ]
+  },
+  "devDependencies": {
+    "pkg": "^5.8.0"
+  }
+}
