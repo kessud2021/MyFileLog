@@ -19,7 +19,7 @@ MyFileLog is a simple, interactive CLI tool to manage logs, snapshots, branches,
 2. Clone the repository or copy files into your workspace:
 
 ```bash
-git clone https://github.com/your-username/myfilelog.git
+git clone https://github.com/kessud2021/myfilelog.git
 cd myfilelog
 ```
 
@@ -114,3 +114,4 @@ Fully interactive — type commands and hit Enter to execute.
 ## License
 
 MIT License. Feel free to modify and use in your projects.
+
