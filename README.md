@@ -1,4 +1,4 @@
-![MyFileLog Logo](*.png)
+![MyFileLog Logo](file_0000000024907207a545e0a95f1d5781.png)
 
 
 
@@ -119,5 +119,6 @@ Fully interactive — type commands and hit Enter to execute.
 ## License
 
 MIT License. Feel free to modify and use in your projects.
+
 
 
