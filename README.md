@@ -1,3 +1,8 @@
+![MyFileLog Logo](*.png)
+
+
+
+
 # MyFileLog
 
 MyFileLog is a simple, interactive CLI tool to manage logs, snapshots, branches, tags, and remote pushes/pulls for your project. It works entirely in Node.js and keeps your project history organized.
@@ -114,4 +119,5 @@ Fully interactive — type commands and hit Enter to execute.
 ## License
 
 MIT License. Feel free to modify and use in your projects.
+
 
