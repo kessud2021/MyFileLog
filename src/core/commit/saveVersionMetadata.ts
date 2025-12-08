@@ -12,3 +12,4 @@ export function saveVersionMetadata(versionId, message) {
 
     saveMetadata(md);
 }
+
