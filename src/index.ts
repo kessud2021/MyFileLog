@@ -21,3 +21,4 @@ const child = spawn("node", [cliPath, ...args], {
 child.on("exit", (code) => {
     process.exit(code);
 });
+
